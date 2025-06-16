@@ -1,4 +1,5 @@
-📘 Project Summary
+📘 Project Summary //
+
 This project explores how financial digitalisation, proxied by electronic transaction volume, impacts unemployment and inflation across 22 Indian states from 2014 to 2023. Using panel data econometrics in R, I applied:
 
 Two-Way Fixed Effects (2FE) to estimate average effects
