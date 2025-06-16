@@ -23,7 +23,7 @@ DiD estimates suggest economically meaningful but statistically insignificant ef
 
 * Dataset is titled: Final Monthly Dataset.xlsx
 
-* R Script is titled:
+* R Script is titled: RStudioCodeScript.md
 
 
 
