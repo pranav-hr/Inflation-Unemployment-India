@@ -21,7 +21,9 @@ DiD estimates suggest economically meaningful but statistically insignificant ef
 
 📁 Repository Structure
 
+* Dataset is titled: Final Monthly Dataset.xlsx
 
+* R Script is titled:
 
 
 
